@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="AlgoTerm2" targetName="AlgoTerm2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="397a1ac7-2c6a-4088-a676-2701dafec6b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="Algo Lab Template">
+      <favorite_root url="file://$PROJECT_DIR$/main.cpp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Lab Template" />
+        <option value="Lab File" />
+        <option value="Lab" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XO7vzPwZgcTTfgbyX7zXYIZ4se" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AlgoTerm2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AlgoTerm2" TARGET_NAME="AlgoTerm2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AlgoTerm2" RUN_TARGET_NAME="AlgoTerm2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="397a1ac7-2c6a-4088-a676-2701dafec6b7" name="Default Changelist" comment="" />
+      <created>1580905521920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580905521920</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="169" key="#New_File_Extensions" timestamp="1580906807565">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="440" y="169" key="#New_File_Extensions/0.23.1680.961@0.23.1680.961" timestamp="1580906807565" />
+    <state x="771" y="230" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1580907941667">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="771" y="230" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1680.961@0.23.1680.961" timestamp="1580907941667" />
+    <state x="578" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580907963037">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="578" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.961@0.23.1680.961" timestamp="1580907963037" />
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1580908102574">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1580908102574" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1580908102574">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1580908102574" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1580908102574">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1580908102574" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1580908102574">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1580908102574" />
+    <state x="628" y="315" key="save.file.as.template.dialog" timestamp="1580907863939">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="628" y="315" key="save.file.as.template.dialog/0.23.1680.961@0.23.1680.961" timestamp="1580907863939" />
+  </component>
+</project>
