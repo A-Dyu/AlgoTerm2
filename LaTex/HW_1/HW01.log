@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.31)  19 APR 2020 03:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.31)  19 APR 2020 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -297,13 +297,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./
 HW01.aux) ) 
 Here is how much of TeX's memory you used:
- 1460 strings out of 492616
- 17251 string characters out of 6129481
- 90584 words of memory out of 5000000
- 5429 multiletter control sequences out of 15000+600000
+ 1466 strings out of 492616
+ 17329 string characters out of 6129481
+ 89584 words of memory out of 5000000
+ 5435 multiletter control sequences out of 15000+600000
  6061 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,4n,23p,1841b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,5n,23p,2430b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
 r-t2a.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
@@ -314,7 +314,7 @@ pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on HW01.pdf (2 pages, 96378 bytes).
+Output written on HW01.pdf (2 pages, 102329 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream

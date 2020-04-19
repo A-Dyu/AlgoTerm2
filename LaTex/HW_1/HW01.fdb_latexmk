@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1587254730 "HW01.tex" "HW01.pdf" "HW01" 1587254731
+["pdflatex"] 1587315020 "HW01.tex" "HW01.pdf" "HW01" 1587315021
   "/Users/ad/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1568219789 3304 6a543c07045572737981351171e0505e ""
   "/Users/ad/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1567284149 3220 0e417eaf233b160335902e97259a6c77 ""
   "/Users/ad/Library/texlive/2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1568219785 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
@@ -30,9 +30,9 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1567284058 4259636 4089d0f08576091d0eb0dcf0cefb6137 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "HW01.aux" 1587254730 394 a7c8415544ec9fe1c9c903b1f65af46a "pdflatex"
-  "HW01.tex" 1587254730 6132 1498a0af904487d50856f47c662af6b3 ""
+  "HW01.aux" 1587315021 394 a7c8415544ec9fe1c9c903b1f65af46a "pdflatex"
+  "HW01.tex" 1587315020 8879 20b98057f25f887f0310bb99ea76a779 ""
   (generated)
-  "HW01.aux"
-  "HW01.pdf"
   "HW01.log"
+  "HW01.pdf"
+  "HW01.aux"
